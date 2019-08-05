@@ -1,0 +1,11 @@
+C:\Users\varun\source\repos\GreWords\GreWords\bin\Debug\netcoreapp2.1\GreWords.deps.json
+C:\Users\varun\source\repos\GreWords\GreWords\bin\Debug\netcoreapp2.1\GreWords.runtimeconfig.json
+C:\Users\varun\source\repos\GreWords\GreWords\bin\Debug\netcoreapp2.1\GreWords.runtimeconfig.dev.json
+C:\Users\varun\source\repos\GreWords\GreWords\bin\Debug\netcoreapp2.1\GreWords.dll
+C:\Users\varun\source\repos\GreWords\GreWords\bin\Debug\netcoreapp2.1\GreWords.pdb
+C:\Users\varun\source\repos\GreWords\GreWords\obj\Debug\netcoreapp2.1\GreWords.csprojAssemblyReference.cache
+C:\Users\varun\source\repos\GreWords\GreWords\obj\Debug\netcoreapp2.1\GreWords.csproj.CoreCompileInputs.cache
+C:\Users\varun\source\repos\GreWords\GreWords\obj\Debug\netcoreapp2.1\GreWords.AssemblyInfoInputs.cache
+C:\Users\varun\source\repos\GreWords\GreWords\obj\Debug\netcoreapp2.1\GreWords.AssemblyInfo.cs
+C:\Users\varun\source\repos\GreWords\GreWords\obj\Debug\netcoreapp2.1\GreWords.dll
+C:\Users\varun\source\repos\GreWords\GreWords\obj\Debug\netcoreapp2.1\GreWords.pdb
